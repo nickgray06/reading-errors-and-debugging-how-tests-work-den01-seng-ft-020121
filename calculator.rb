@@ -6,12 +6,8 @@ sum
 subtraction = first_number - second_number
 subtraction
 
-def multiplication (first_number = 4, second_number = 2)
-  product = first_number * second_number
-  product
-end
+product = first_number * second_number
+product
 
-def division (first_number = 4, second_number = 2)
-  quotient = first_number / second_number
-  quotient
-end
+quotient = first_number / second_number
+quotient
