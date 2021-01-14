@@ -3,14 +3,14 @@ def addition (first_number , second_number = 2)
   sum
 end
 def subtraction (first_number , second_number = 2)
-  sum = first_number + second_number
-  sum
+  subtraction = first_number - second_number
+  subtraction
 end
 def multiplication (first_number , second_number = 2)
-  sum = first_number + second_number
-  sum
+  product = first_number * second_number
+  product
 end
 def division (first_number , second_number = 2)
-  sum = first_number + second_number
-  sum
+  quotient = first_number / second_number
+  quotient
 end
